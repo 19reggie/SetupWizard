@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 /**
- * 使用adb logcat | findstr Displayed命令获取页面跳转响应时间
+ * 浣跨敤adb logcat | findstr Displayed鍛戒护鑾峰彇椤甸潰璺宠浆鍝嶅簲鏃堕棿
  * 
  * Created on 2015/12/16
  * 

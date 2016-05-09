@@ -8,7 +8,7 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 
 /**
- * 用于处理Runtime.getRuntime().exec产生的错误流及输出流
+ * 鐢ㄤ簬澶勭悊Runtime.getRuntime().exec浜х敓鐨勯敊璇祦鍙婅緭鍑烘祦
  * 
  * Created on 2015/12/16
  * 
